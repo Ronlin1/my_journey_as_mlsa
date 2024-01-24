@@ -10,7 +10,11 @@ Useful URLS:
 - https://jobs.careers.microsoft.com/global/en/job/1670265/Software-Engineering-%3A-Internship-Opportunities
 - https://azure.microsoft.com/en-gb/free/students/
 - https://github.com/microsoft/SATechnicalOnboarding
-- 
+- https://stdntpartners.sharepoint.com/sites/SAProgramHandbook/SitePages/Advancing-Milestones.aspx#new-to-alpha
+- https://my.visualstudio.com/benefits
+- https://super-space-train-46g9p5j994vh7g7q.github.dev/  -Technical Onboarding
+- 1st One - https://github.com/Ronlin1/mlsaone
+- https://www.youtube.com/watch?v=ODjpaUd4GtM&ab_channel=MeeraliNaseet VID
  
 
 - 
