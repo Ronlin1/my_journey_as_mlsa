@@ -18,7 +18,8 @@ Useful URLS:
 - Workshop-o-Matic content -https://github.com/Ronlin1/mlsa-workshop-library
 - Incentive Form - http://tinyurl.com/3tu4fsdc
 - https://gentle-sand-004051500.4.azurestaticapps.net/
-- 
+
+- HELD AN ONLINE EVENT TODAY 15TH JUNE 2024 TOP 10 MICROSOFT OPPORTUNITES
  
 
 - -----------------------
