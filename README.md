@@ -25,4 +25,4 @@ Useful URLS:
 - -----------------------
 
 - https://dev.azure.com/RonaldAtuhaire/MpaMpe
-- 
+- https://medium.com/@harshxx/how-to-be-a-microsoft-learn-student-ambassador-updated-2024-new-selection-criteria-d9ac94e6d11d
