@@ -1,5 +1,5 @@
 # my_journey_as_mlsa
-Here is my journey as MLSA
+Here is my journey as MLSA 
 
 Useful URLS: 
 - https://imaginecup.microsoft.com/en-US/Account/Manage
